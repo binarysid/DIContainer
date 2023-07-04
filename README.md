@@ -1,3 +1,3 @@
 # DIContainer
 
-A description of this package.
+Dependency Injection Container for registering and resolving dependencies for class/struct.
